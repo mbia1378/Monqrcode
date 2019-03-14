@@ -2,7 +2,7 @@
 
     <!--Essentiels de l'appli-->
     <string name="app_name">Monqrcode</string>
-    <string name="file_provider_authority" translatable="false">qrcoba.w3engineers.com.qrcoba.fileprovider</string>
+    <string name="file_provider_authority" translatable="false">com.mbia.cyrille.monqrcode.fileprovider</string>
     <string name="admob_app_id">ca-app-pub-7286879650571118~9216827895</string>
     <string name="admob_banner_ad_unit_id">ca-app-pub-7286879650571118/7422785526</string>
     <string name="admob_test_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
