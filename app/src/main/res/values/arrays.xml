@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="code_types">
+        <item>Sélectionner le type</item>
+        <item>QR Code</item>
+        <item>Code Bar</item>
+    </string-array>
+</resources>
