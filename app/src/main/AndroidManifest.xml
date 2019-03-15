@@ -32,7 +32,8 @@
                 android:resource="@xml/file_provider_paths" />
         </provider>
 
-        <activity android:name=".ui.splash.SplashActivity"
+        <activity
+            android:name=".ui.splash.SplashActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Launcher">
@@ -41,8 +42,8 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity android:name=".ui.home.HomeActivity"></activity>
     </application>
 
 </manifest>
